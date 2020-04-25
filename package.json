@@ -1,0 +1,37 @@
+{
+  "name": "nintendo-rich-presence",
+  "version": "1.0.0",
+  "description": "A tool that allows Discord's rich presence to be used with Nintendo Switch games",
+  "main": "index.js",
+  "scripts": {
+    "start": "electron .",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bbialke/nintendo-rich-presence.git"
+  },
+  "keywords": [
+    "rich",
+    "presence",
+    "discord",
+    "nintendo",
+    "switch",
+    "nintendo",
+    "switch",
+    "status"
+  ],
+  "author": "Bradley Bialke",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/bbialke/nintendo-rich-presence/issues"
+  },
+  "homepage": "https://github.com/bbialke/nintendo-rich-presence#readme",
+  "devDependencies": {
+    "electron": "^8.2.3"
+  },
+  "dependencies": {
+    "discord-rich-presence": "0.0.8",
+    "open": "^7.0.3"
+  }
+}
