@@ -28,7 +28,7 @@
   },
   "homepage": "https://github.com/bbialke/nintendo-rich-presence#readme",
   "devDependencies": {
-    "electron": "^8.2.3"
+    "electron": "^8.2.4"
   },
   "dependencies": {
     "discord-rich-presence": "0.0.8",
